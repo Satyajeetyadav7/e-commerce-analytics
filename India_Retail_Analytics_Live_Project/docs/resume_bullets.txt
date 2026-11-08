@@ -1,0 +1,6 @@
+India Retail & E-Commerce Business Analytics Dashboard | Excel, SQL, Power BI, Python
+• Analysed 50,000+ order records across Indian regions, categories and sales channels to identify revenue, profitability and customer-experience drivers.
+• Built an Excel executive dashboard covering sales, profit, AOV, return rate, delivery SLA and category performance.
+• Developed a Power BI-ready star schema and DAX measures for KPI tracking, monthly growth, profitability and operational performance.
+• Used SQL CTEs, CASE expressions, aggregations and window functions for business analysis and regional/category ranking.
+• Built a rerunnable Streamlit dashboard to refresh insights from updated CSV data.
